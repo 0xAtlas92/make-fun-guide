@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+  <rect width="1000" height="200" rx="12" fill="#f6f8fa"/>
+  <text x="500" y="28" text-anchor="middle" font-size="16" font-weight="700" fill="#1f2328">From zero to your first entry</text>
+  <line x1="80" y1="90" x2="920" y2="90" stroke="#d0d7de" stroke-width="3"/>
+  <g text-anchor="middle">
+    <g>
+      <circle cx="100" cy="90" r="26" fill="#0969da"/>
+      <text x="100" y="96" font-size="16" font-weight="700" fill="#ffffff">1</text>
+      <text x="100" y="140" font-size="13" font-weight="600" fill="#1f2328">Sign up</text>
+      <text x="100" y="158" font-size="11" fill="#57606a">via referral link,</text>
+      <text x="100" y="173" font-size="11" fill="#57606a">link GitHub</text>
+    </g>
+    <g>
+      <circle cx="300" cy="90" r="26" fill="#0969da"/>
+      <text x="300" y="96" font-size="16" font-weight="700" fill="#ffffff">2</text>
+      <text x="300" y="140" font-size="13" font-weight="600" fill="#1f2328">Pick a bounty</text>
+      <text x="300" y="158" font-size="11" fill="#57606a">small, clear, many</text>
+      <text x="300" y="173" font-size="11" fill="#57606a">paid places</text>
+    </g>
+    <g>
+      <circle cx="500" cy="90" r="26" fill="#0969da"/>
+      <text x="500" y="96" font-size="16" font-weight="700" fill="#ffffff">3</text>
+      <text x="500" y="140" font-size="13" font-weight="600" fill="#1f2328">Download the kit</text>
+      <text x="500" y="158" font-size="11" fill="#57606a">read RULES.txt,</text>
+      <text x="500" y="173" font-size="11" fill="#57606a">run the checks</text>
+    </g>
+    <g>
+      <circle cx="700" cy="90" r="26" fill="#0969da"/>
+      <text x="700" y="96" font-size="16" font-weight="700" fill="#ffffff">4</text>
+      <text x="700" y="140" font-size="13" font-weight="600" fill="#1f2328">Build with agent</text>
+      <text x="700" y="158" font-size="11" fill="#57606a">fresh session after</text>
+      <text x="700" y="173" font-size="11" fill="#57606a">opening, add LICENSE</text>
+    </g>
+    <g>
+      <circle cx="900" cy="90" r="26" fill="#1f883d"/>
+      <text x="900" y="96" font-size="16" font-weight="700" fill="#ffffff">5</text>
+      <text x="900" y="140" font-size="13" font-weight="600" fill="#1f2328">Submit early</text>
+      <text x="900" y="158" font-size="11" fill="#57606a">check, submit, improve,</text>
+      <text x="900" y="173" font-size="11" fill="#57606a">resubmit</text>
+    </g>
+  </g>
+</svg>
